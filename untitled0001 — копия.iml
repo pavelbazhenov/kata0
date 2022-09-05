@@ -1,0 +1,51 @@
+
+class untitled0001 {
+      public static void main(String[] args) {
+            Person person1 new=Person();
+            person1.name name ="=q+w";
+            person2.name name ="=q-w";
+            person3.name name ="=q/w";
+            person4.name name ="=q*w";
+            int q, w;
+            Scanner Int = Scanner(System.in);
+
+            System.out.print("q ="); q = in.nextInt();
+            system.out.print("w ="); w = in.nextInt();
+            int z=q+w;
+            int x=q-w;
+            int c=q/w;
+            int v=q*w;
+
+            System.out.println(z + person1.name);
+            System.out.println(x + person2.name);
+            system.out.println(c + person3.name);
+
+            System.out.println(v + person4.name);
+      }
+}
+
+/** 08.07.2022
+*/
+package com.company;
+import java.util.Scanner;
+public class REPL_$$jshell_root_class$$116 {
+
+        public static main(String[] args) {
+            double q, w;
+            Scanner myVar = new Scanner(System.in);
+
+            System.out.println("q ="); q = myVar.nextDouble();
+            System.out.println("w ="); w = myVar.nextDouble();
+
+            double z=q+w;
+            double x=q-w;
+            double c=q/w;
+            double v=q*w;
+
+            System.out.println(z + "=q+w");
+            System.out.println(x + "=q-w");
+            System.out.println(c + "=q/w");
+            System.out.println( "q*w=" + v);
+            in.close();
+        }
+    }
