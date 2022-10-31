@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+/** 08.07.2022
+*/
+package com.company;
+import java.util.Scanner;
+public class REPL_$$jshell_root_class$$116 {
+
+        public static main(String[] args) {
+            double q, w;
+            Scanner myVar = new Scanner(System.in);
+
+            System.out.println("q ="); q = myVar.nextDouble();
+            System.out.println("w ="); w = myVar.nextDouble();
+
+            double z=q+w;
+            double x=q-w;
+            double c=q/w;
+            double v=q*w;
+
+            System.out.println(z + "=q+w");
+            System.out.println(x + "=q-w");
+            System.out.println(c + "=q/w");
+            System.out.println( "q*w=" + v);
+            in.close();
+        }
+    }
+
+
+/**  24.10.2022 - 29.11.2022
+*/
+package kata tz;
+import java.util.Scanner;
+
+public class REPL_$$jshell_root_class$$116 {
+
+        public static main(String[] args) {
+
+            short q, w;
+            Scanner myVar = new Scanner(System.in);
+
+            System.out.println("q ="); q = myVar.nextShort(<div><a href="https://planetcalc.com/376/" data-lang="ru" data-code="" data-colors="#263238,#435863,#090c0d,#fa7014,#fb9b5a,#c25004" data-v="4170">PLANETCALC, Преобразование числа, записанного римскими цифрами в десятичное число</a><script src="https://embed.planetcalc.com/widget.js?v=4170"></script></div>);
+                                                                       );
+
+            System.out.println("w ="); w = myVar.nextShort(<div><a href="https://planetcalc.com/376/" data-lang="ru" data-code="" data-colors="#263238,#435863,#090c0d,#fa7014,#fb9b5a,#c25004" data-v="4170">PLANETCALC, Преобразование числа, записанного римскими цифрами в десятичное число</a><script src="https://embed.planetcalc.com/widget.js?v=4170"></script></div>);
+                                                                       );
+
+            short z=q+w;
+
+            short n=q-w;
+            if (n>=1) {
+              System.out.println(n=(<div><a href="https://planetcalc.com/377/" data-lang="ru" data-code="" data-colors="#263238,#435863,#090c0d,#fa7014,#fb9b5a,#c25004" data-v="4170">PLANETCALC, Преобразование десятичного числа в число, записанное римскими цифрами</a><script src="https://embed.planetcalc.com/widget.js?v=4170"></script></div>
+) + "=q-w");
+            } else {
+              System.out.println("В римской системе нет отрицательных чисел, 0");
+            }
+            short s=q/w;
+            if (s>=1) {
+            System.out.println(s=(<div><a href="https://planetcalc.com/377/" data-lang="ru" data-code="" data-colors="#263238,#435863,#090c0d,#fa7014,#fb9b5a,#c25004" data-v="4170">PLANETCALC, Преобразование десятичного числа в число, записанное римскими цифрами</a><script src="https://embed.planetcalc.com/widget.js?v=4170"></script></div>
+) + "=q/w");
+            } else {
+              System.out.println("Ошибка, В римской системе нет 0");
+            }
+            short e=q*w;
+
+            System.out.println(z=(<div><a href="https://planetcalc.com/377/" data-lang="ru" data-code="" data-colors="#263238,#435863,#090c0d,#fa7014,#fb9b5a,#c25004" data-v="4170">PLANETCALC, Преобразование десятичного числа в число, записанное римскими цифрами</a><script src="https://embed.planetcalc.com/widget.js?v=4170"></script></div>
+) + "=q+w");
+
+            System.out.println( "q*w=" + e=(<div><a href="https://planetcalc.com/377/" data-lang="ru" data-code="" data-colors="#263238,#435863,#090c0d,#fa7014,#fb9b5a,#c25004" data-v="4170">PLANETCALC, Преобразование десятичного числа в число, записанное римскими цифрами</a><script src="https://embed.planetcalc.com/widget.js?v=4170"></script></div>
+));
+            in.close();
+
+       */     I-I=I
+       */     I-II=I
+       */    I*I=I
+       */     I/I=I
+       */    I/II=I
+       */    I+I=II
+
+        }
+    }
+
+//<div><a href="https://planetcalc.com/376/" data-lang="ru" data-code="" data-colors="#263238,#435863,#090c0d,#fa7014,#fb9b5a,#c25004" data-v="4170">PLANETCALC, Преобразование числа, записанного римскими цифрами в десятичное число</a><script src="https://embed.planetcalc.com/widget.js?v=4170"></script></div>
+
+//<div><a href="https://planetcalc.com/377/" data-lang="ru" data-code="" data-colors="#263238,#435863,#090c0d,#fa7014,#fb9b5a,#c25004" data-v="4170">PLANETCALC, Преобразование десятичного числа в число, записанное римскими цифрами</a><script src="https://embed.planetcalc.com/widget.js?v=4170"></script></div>
+
+
+
